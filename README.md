@@ -52,7 +52,7 @@ A modern full-stack authentication application built with:
 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/auth-app.git
+git clone https://github.com/durgeshpd/secure-vault.git
 cd auth-app
 ```
 
